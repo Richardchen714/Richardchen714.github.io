@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 
+**(This site is waiting to be updated)**
 
 I'm an MS student in Networked Systems at University of California, Irvine (UCI) starting in 2023. Before that, I received my BEng degree (2023) in Computer Science & Technology at Southeast University (SEU), China. I had been an exchange undergrad at UCI from Sep 2022 to Jun 2023.
 
