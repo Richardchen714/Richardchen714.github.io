@@ -9,7 +9,7 @@ author_profile: true
 
 ### PhD Application & Research
 
-- [awesome-phd-advice](https://github.com/pliang279/awesome-phd-advice), by [Paul Liang](http://www.cs.cmu.edu/~pliang/)
+- [awesome-phd-advice](https://github.com/pliang279/awesome-phd-advice), by [Paul Liang](http://www.cs.cmu.edu/~pliang/) et al.
 - *The Ph.D. Grind: A Ph.D. Student Memoir*, by [Philip Guo](https://pg.ucsd.edu)
 
 ### Computer Science Learning
