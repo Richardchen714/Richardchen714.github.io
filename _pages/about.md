@@ -17,6 +17,6 @@ I'm trying to extend my research interests to machine learning in cybersecurity 
 
 ## Education
 
-- MS in Networked Systems, University of California, Irvine, starting in Sep 2023
-- Visiting Student in EECS, University of California, Irvine, Sep 2022-Jun 2023
-- BS in Computer Science and Engineering, Southeast University, China, Aug 2019-Jun 2023
+- MS in Networked Systems, [University of California, Irvine](https://uci.edu), starting in Sep 2023
+- Visiting Student in EECS, [University of California, Irvine](https://uci.edu), Sep 2022-Jun 2023
+- BS in Computer Science and Engineering, [Southeast University, China](https://www.seu.edu.cn), Aug 2019-Jun 2023
