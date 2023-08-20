@@ -13,7 +13,7 @@ I'm an MS student in Networked Systems at University of California, Irvine (UCI)
 
 I'm trying to extend my research interests to machine learning in cybersecurity and data privacy.
 
-My research interests include Machine Learning, 3D Computer Vision, Self-Supervised Learning (generative and contrastive models), and Reinforcement Learning.
+My previous research areas include Machine Learning, 3D Computer Vision, Self-Supervised Learning (generative and contrastive models), and Reinforcement Learning.
 
 ## Education
 
