@@ -5,4 +5,5 @@ permalink: /teaching/
 author_profile: true
 ---
 
-To be updated.
+## University of California, Irvine (UCI)
+- Reader, EECS 70B, *Network Analysis II*, Oct-Dec 2023
