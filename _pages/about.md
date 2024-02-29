@@ -10,7 +10,7 @@ redirect_from:
 
 I'm an MS student in Networked Systems at University of California, Irvine (UCI) starting in 2023. Before that, I received my BEng degree (2023) in Computer Science & Technology at Southeast University (SEU), China. I had been an visiting undergrad at UCI from Sep 2022 to Jun 2023.
 
-My previous research areas include Machine Learning, 3D Computer Vision, Self-Supervised Learning (generative and contrastive models), and Reinforcement Learning.
+My previous research areas include Machine Learning, 3D Computer Vision, Self-Supervised Learning (generative and contrastive models), and Reinforcement Learning. Currently I'm trying to extend my research to other relevant areas. 
 
 ## Education
 
