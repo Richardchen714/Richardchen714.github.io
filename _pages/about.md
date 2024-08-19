@@ -8,13 +8,14 @@ redirect_from:
 ---
 
 
-I'm an MS student in Networked Systems at University of California, Irvine (UCI) starting in 2023. Before that, I received my BEng degree (2023) in Computer Science & Technology at Southeast University (SEU), China. I had been an visiting undergrad at UCI from Sep 2022 to Jun 2023.
+I'm a PhD student in Computer Science and Engineering at [the University of Texas at Arlington (UTA)](https://www.uta.edu). My research interest includes IoT with security. 
 
-My previous research areas include Machine Learning, 3D Computer Vision, Self-Supervised Learning (generative and contrastive models), and Reinforcement Learning. Currently I'm trying to extend my research to other relevant areas. 
+My previous research areas include Machine Learning, 3D Computer Vision, Self-Supervised Learning (generative and contrastive models), and Reinforcement Learning.
 
 ## Education
 
-- MS in Networked Systems, [University of California, Irvine](https://uci.edu), starting in Sep 2023
+- PhD in Computer Science and Engineering, [the University of Texas at Arlington (UTA)](https://www.uta.edu), starting Aug 2024
+- MS in Networked Systems, [University of California, Irvine](https://uci.edu), Sep 2023-Jun 2024
 - Visiting Student in EECS, [University of California, Irvine](https://uci.edu), Sep 2022-Jun 2023
 - BS in Computer Science and Engineering, [Southeast University, China](https://www.seu.edu.cn), Aug 2019-Jun 2023
 
